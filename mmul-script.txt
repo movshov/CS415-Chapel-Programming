@@ -1,0 +1,25 @@
+Script started on Sun 25 Feb 2018 08:14:01 PM PST
+movshov@ada:~/CS415/assignment_3$ !.
+./mmul -nl 1
+total = 3584 (should be 3584)
+movshov@ada:~/CS415/assignment_3$ ./mmul -nl [K[K[K-N=16 -nl 1
+total = 61432 (should be 3584)
+movshov@ada:~/CS415/assignment_3$ !.
+./mmul --N=16 -nl 1
+total = 61415 (should be 3584)
+movshov@ada:~/CS415/assignment_3$ !.
+./mmul --N=16 -nl 1
+total = 61440 (should be 3584)
+movshov@ada:~/CS415/assignment_3$ !.
+./mmul --N=16 -nl 1
+total = 61440 (should be 3584)
+movshov@ada:~/CS415/assignment_3$ !.
+./mmul --N=16 -nl 1
+total = 61440 (should be 3584)
+movshov@ada:~/CS415/assignment_3$ !.
+./mmul --N=16 -nl 1
+total = 61432 (should be 3584)
+movshov@ada:~/CS415/assignment_3$ exit
+exit
+
+Script done on Sun 25 Feb 2018 08:14:35 PM PST
